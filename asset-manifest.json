@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/noun/static/css/main.1081b4a9.css",
+    "main.js": "/noun/static/js/main.47a39b15.js",
+    "static/media/1760x564_desktop_home_background_job_offer_64ecb00973.jpeg": "/noun/static/media/1760x564_desktop_home_background_job_offer_64ecb00973.3d2a346c072b6dae3328.jpeg",
+    "static/media/Cover_Progress_report20202023_1760x644_Desktop_0b360cce76.jpeg": "/noun/static/media/Cover_Progress_report20202023_1760x644_Desktop_0b360cce76.b454bf1748be00101228.jpeg",
+    "static/media/finance-background.jpeg": "/noun/static/media/finance-background.79ebbaf3986b4655ad84.jpeg",
+    "static/media/WHITE-LOGO-KERING.png": "/noun/static/media/WHITE-LOGO-KERING.f9af1cc1dfce8a75a3d7.png",
+    "index.html": "/noun/index.html",
+    "main.1081b4a9.css.map": "/noun/static/css/main.1081b4a9.css.map",
+    "main.47a39b15.js.map": "/noun/static/js/main.47a39b15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1081b4a9.css",
+    "static/js/main.47a39b15.js"
+  ]
+}
